@@ -1,0 +1,35 @@
+PiggyVest Interest Calculator
+                                                        ABOUT
+PiggyVest Interest Calculator provides a hassle-free way of calculating interests of certain amount you invest over a period of time. 
+It also gives an insight into how much you will be paid per month. As such, You can determine how robust your savings will be with varying interest rates and duration!
+                                                            
+                                                        FEATURES
+- Suported on both android and iOS
+- Single interface to prevent shuffling between pages
+- Excellent User Interface
+- Easy download on both Android and iOS
+
+                                                      GETTING STARTED
+- This app is a HNG mobile development project and a basic flutter application
+
+                                                        INSTALLATION
+- Install Android Studio, IntelliJ or VScose on your laptop at https://flutter.dev/docs/get-started/editor
+- Install dart and flutter at https://flutter.dev/docs/get-started/install
+- Download a mobile emulator
+- Fork and clone this repository
+- Unzip the downloaded zip folder
+- Open project on Android Studio
+- Launch your emulator
+- Install the required packages in pubspec.yaml
+- Navigate to main.dart file on current project directory
+- Run the main.dart file
+- View the beautiful application
+
+                                                          OUTCOME
+  The outcome is a sinle page application (interface) that allows 
+  for simple calculation of total interest on a specified amount of money, interest rate and duration (as specified by you).
+  Basically, it allows you calculate how rich you will be over a period of time. Exciting!
+  
+                                                          TESTRUN?
+  If you will like to testrun this app, visit (and be whao-ed):
+  https://appetize.io/app/5jr30vhmn318gp5bjn4zchjmk4?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
